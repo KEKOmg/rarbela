@@ -1,0 +1,14 @@
+body {
+    background-color: #dcfcdc ;
+    color: #0f141e;
+
+
+    font-size: 16px;
+    font-family:'Courier New', Courier, monospace;   
+    
+
+}
+img {
+    width: 200px;
+    border-radius: 20px;
+}
